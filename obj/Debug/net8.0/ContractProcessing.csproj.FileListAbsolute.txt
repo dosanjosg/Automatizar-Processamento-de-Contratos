@@ -1,0 +1,28 @@
+C:\Users\Gabriel Dos Anjos\ContractProcessing\bin\Debug\net8.0\ContractProcessing.exe
+C:\Users\Gabriel Dos Anjos\ContractProcessing\bin\Debug\net8.0\ContractProcessing.deps.json
+C:\Users\Gabriel Dos Anjos\ContractProcessing\bin\Debug\net8.0\ContractProcessing.runtimeconfig.json
+C:\Users\Gabriel Dos Anjos\ContractProcessing\bin\Debug\net8.0\ContractProcessing.dll
+C:\Users\Gabriel Dos Anjos\ContractProcessing\bin\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfo.cs
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.dll
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\refint\ContractProcessing.dll
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ContractProcessing.genruntimeconfig.cache
+C:\Users\Gabriel Dos Anjos\ContractProcessing\obj\Debug\net8.0\ref\ContractProcessing.dll
+C:\Users\Desktop\ContractProcessing\bin\Debug\net8.0\ContractProcessing.exe
+C:\Users\Desktop\ContractProcessing\bin\Debug\net8.0\ContractProcessing.deps.json
+C:\Users\Desktop\ContractProcessing\bin\Debug\net8.0\ContractProcessing.runtimeconfig.json
+C:\Users\Desktop\ContractProcessing\bin\Debug\net8.0\ContractProcessing.dll
+C:\Users\Desktop\ContractProcessing\bin\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfoInputs.cache
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfo.cs
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.dll
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\refint\ContractProcessing.dll
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ContractProcessing.genruntimeconfig.cache
+C:\Users\Desktop\ContractProcessing\obj\Debug\net8.0\ref\ContractProcessing.dll
